@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Sudhanshu Raj</h1>
 
 <h3 align="center">
@@ -245,8 +245,7 @@ https://github.com/Sudhanshuraj1037/intelligent-cpu-scheduler-simulator
 **Status**
 
 🚧 Currently Under Development
-```
-```md
+
 ---
 
 ## 🌐 Personal Portfolio
@@ -259,7 +258,7 @@ https://github.com/Sudhanshuraj1037/intelligent-cpu-scheduler-simulator
 
 🔗 Portfolio
 
-https://YOUR-PORTFOLIO-LINK.com
+https://PORTFOLIO.com
 
 ---
 
@@ -315,16 +314,6 @@ I believe **consistency beats intensity**.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sudhanshuraj1037&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -335,15 +324,6 @@ I believe **consistency beats intensity**.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sudhanshuraj1037/Sudhanshuraj1037/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</p>
-
-> **Note:** Snake animation works after enabling a GitHub Action. I'll show you how after you upload the README.
 
 ---
 
@@ -387,7 +367,7 @@ I believe **consistency beats intensity**.
 
 # 🎯 2026 Goals
 
-- ✅ Solve **500+ LeetCode** problems.
+- ✅ Solve **300+ LeetCode** problems.
 - ✅ Build **10+ AI/ML Projects**.
 - ✅ Master **Machine Learning & Deep Learning**.
 - ✅ Learn **MLOps & Cloud Deployment**.
@@ -440,4 +420,4 @@ I believe **consistency beats intensity**.
 <img src="https://komarev.com/ghpvc/?username=Sudhanshuraj1037&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
-```
+
