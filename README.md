@@ -1,68 +1,68 @@
+<!-- ==================== HERO SECTION ==================== -->
 
-<h1 align="center">Hi 👋, 
-  I'm Sudhanshu Raj❤️</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 B.Tech Computer Science Student | AI & Machine Learning Enthusiast | Python Developer | Data Analytics Learner
-</h3>
+# 👋 Hi, I'm <span style="color:#00E5FF;">Sudhanshu Raj❤️</span>
 
-<p align="center">
+### 🚀 AI & Machine Learning Enthusiast • Python Developer • Data Analytics Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Python+Programmer;Data+Analytics+Learner;Daily+LeetCode+Solver;Building+Real+World+AI+Projects;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Python+Developer;Data+Analytics+Learner;Daily+LeetCode+Solver;Building+Real+World+AI+Projects;Always+Learning+New+Technologies"/>
 
-</p>
+<br>
 
-<p align="center">
+<img src="https://img.shields.io/github/followers/Sudhanshuraj1037?logo=github&style=for-the-badge">
 
-<img src="https://komarev.com/ghpvc/?username=Sudhanshuraj1037&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Sudhanshuraj1037?style=for-the-badge">
 
-<img src="https://img.shields.io/github/followers/Sudhanshuraj1037?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=Sudhanshuraj1037&style=for-the-badge&color=blue">
 
-<img src="https://img.shields.io/github/stars/Sudhanshuraj1037?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 💎 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ2NTRkYm15Mjg2N2F0aGpqNmRtaXJwcXBjbnJydXltZXNwaDV4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif">
+<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 B.Tech Computer Science Engineering Student
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics and Python Development**
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-💻 I enjoy building AI-powered applications that solve real-world problems.
+🐍 Python Developer
 
-📈 I consistently solve **Data Structures & Algorithms** problems on LeetCode and automatically maintain my GitHub coding journey using **LeetHub**.
+📊 Data Analytics Enthusiast
 
-🌱 Currently exploring
+💻 Daily LeetCode Problem Solver
+
+🌱 Currently learning
 
 - Machine Learning
 - Deep Learning
 - NLP
 - Generative AI
 - Prompt Engineering
-- MLOps
-- Data Structures & Algorithms
 - SQL
+- MLOps
+- Docker
 
 🎯 Goal
 
-> Become a world-class AI / Machine Learning Engineer and contribute to impactful products.
+> Become an AI / Machine Learning Engineer and build products that solve real-world problems.
 
 ⚡ Fun Fact
 
-> I love turning ideas into real-world applications.
+> Consistency beats intensity.
+
+<br>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge">
 </a>
 
 <a href="https://www.linkedin.com/in/sudhanshu-raj-7b1651321">
@@ -70,7 +70,7 @@
 </a>
 
 <a href="https://github.com/Sudhanshuraj1037">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://leetcode.com/u/sudhanshuraj1037/">
@@ -81,19 +81,77 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
 
+<a href="mailto:sudhanshu78158@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 <a href="https://www.instagram.com/s_raj78___?igsh=b2hkbTZ1cDJtdDRs">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:sudhanshu78158@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+</div>
 
-</p>
+---
+
+# ⚡ Quick Highlights
+
+<table>
+
+<tr>
+
+<td>💻 Languages</td>
+
+<td>Python • Java • C • C++ • JavaScript</td>
+
+</tr>
+
+<tr>
+
+<td>🤖 Interests</td>
+
+<td>Artificial Intelligence • Machine Learning • Deep Learning</td>
+
+</tr>
+
+<tr>
+
+<td>📊 Currently Working On</td>
+
+<td>AI Resume Builder • Blind AI Assistant</td>
+
+</tr>
+
+<tr>
+
+<td>📚 Daily Routine</td>
+
+<td>LeetCode + AI Projects + Learning</td>
+
+</tr>
+
+<tr>
+
+<td>🎯 Goal</td>
+
+<td>AI / ML Engineer</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 💻 Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
+
+</p>
+
+---
 
 ## 🎨 Frontend
 
@@ -105,7 +163,7 @@
 
 ---
 
-## ⚙️ Backend
+## ⚙ Backend
 
 <p>
 
@@ -115,31 +173,11 @@
 
 ---
 
-## 🗄️ Databases
+## 🗄 Databases
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-</p>
-
----
-
-## ☁️ DevOps & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github"/>
-
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 
 </p>
 
@@ -153,23 +191,33 @@
 
 </p>
 
-### 📚 Libraries & Frameworks
+### Libraries
 
 <p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn">
 
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit">
 
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq API-000000?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Llama%203-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Llama 3-6A0DAD?style=for-the-badge">
+
+</p>
+
+---
+
+## ☁ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github"/>
 
 </p>
 
@@ -179,7 +227,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
 
 </p>
 
@@ -187,129 +235,187 @@
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🤖 AI Resume Builder
 
-> AI-powered Resume Builder with ATS Score, Resume Parsing, PDF Generation, Keyword Optimization and Groq Llama 3 integration.
+> An AI-powered Resume Builder that helps users create ATS-friendly resumes using Large Language Models.
 
-**Tech Stack**
+### ✨ Features
 
-`Python` `Streamlit` `Groq API` `Llama 3`
+- 📄 ATS Score Analysis
+- 🤖 AI Resume Suggestions
+- 📑 Resume Parsing
+- 🎯 Keyword Optimization
+- 📥 PDF Generation
+- ⚡ Groq Llama 3 Integration
 
-🔗 Repository
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+
+![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square)
+
+![Llama3](https://img.shields.io/badge/Llama3-6A0DAD?style=flat-square)
+
+### 🔗 Repository
 
 https://github.com/Sudhanshuraj1037/ai-resume-builder
 
----
+</td>
 
-## 📊 Google Play Store EDA
-
-> Exploratory Data Analysis on Google Play Store Dataset using Python and Data Visualization.
-
-**Tech Stack**
-
-`Python`
-
-`Pandas`
-
-`NumPy`
-
-`Matplotlib`
-
-🔗 Repository
-
-https://github.com/Sudhanshuraj1037/Google-Play-Store-EDA
-
----
-
-## 💻 Intelligent CPU Scheduler Simulator
-
-> Interactive Operating System Scheduling Simulator implementing FCFS, SJF, Round Robin and Priority Scheduling with Gantt Charts.
-
-**Tech Stack**
-
-`Python`
-
-`Algorithms`
-
-`Operating Systems`
-
-🔗 Repository
-
-https://github.com/Sudhanshuraj1037/intelligent-cpu-scheduler-simulator
-
----
+<td width="50%">
 
 ## 👨‍🦯 Blind AI Assistant
 
-> AI assistant designed to assist visually impaired users using speech recognition and computer vision technologies.
+> Smart AI assistant designed to assist visually impaired users using speech and computer vision.
 
-**Status**
+### ✨ Features
 
-🚧 Currently Under Development
+- 🎙 Voice Interaction
+- 👁 Object Detection
+- 🗣 Text To Speech
+- 📷 Image Understanding
+- 🤖 AI Assistant
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
+
+![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square)
+
+![Llama3](https://img.shields.io/badge/Llama3-6A0DAD?style=flat-square)
+
+### 🚧 Status
+
+Currently Under Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Google Play Store EDA
+
+> End-to-end Exploratory Data Analysis project with powerful visualizations.
+
+### ✨ Highlights
+
+- 📈 Data Cleaning
+- 📉 Data Visualization
+- 📊 Statistical Analysis
+- 📚 Business Insights
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+
+### 🔗 Repository
+
+https://github.com/Sudhanshuraj1037/Google-Play-Store-EDA
+
+</td>
+
+<td width="50%">
+
+## 💻 Intelligent CPU Scheduler
+
+> Interactive CPU Scheduling Simulator implementing multiple Operating System scheduling algorithms.
+
+### ✨ Algorithms
+
+- FCFS
+- SJF
+- Priority
+- Round Robin
+
+### 📈 Features
+
+- Gantt Chart
+- Waiting Time
+- Turnaround Time
+- Comparison
+
+### 🔗 Repository
+
+https://github.com/Sudhanshuraj1037/intelligent-cpu-scheduler-simulator
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🌐 Personal Portfolio
-
-> A modern portfolio website showcasing my projects, skills, certifications and achievements.
-
-**Status**
-
-🚧 Currently Building
-
-🔗 Portfolio
-
-https://PORTFOLIO.com
-
----
-
-# 💻 Daily LeetCode Journey
+# 🧩 Daily LeetCode Journey
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/sudhanshuraj1037?theme=dark&font=Nunito&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/sudhanshuraj1037?theme=dark&font=Poppins&ext=heatmap"/>
 
 </div>
 
-### 🎯 My DSA Journey
+---
 
-I believe **consistency beats intensity**.
+# 🚀 Coding Journey
 
-✔ Solving **Data Structures & Algorithms** problems every day.
 
-✔ Every accepted solution is automatically pushed to GitHub using **LeetHub**.
+🐍 Python Development      ████████████████████ 100%
 
-### Current Focus
+🧩 Data Structures         ████████████████░░░  85%
 
-- Arrays
-- Strings
-- Binary Search
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Backtracking
+🤖 Machine Learning        ████████████░░░░░░░  70%
+
+🧠 Deep Learning           ████████░░░░░░░░░░░  45%
+
+⚙️ MLOps                  ████░░░░░░░░░░░░░░░  20%
+
+🏗️ System Design          ██░░░░░░░░░░░░░░░░░  10%
+
+
+
+### 🎯 Current Focus
+
+- ✅ Daily LeetCode Practice
+- ✅ Building AI Projects
+- ✅ Learning MLOps
+- ✅ Improving Problem Solving
+- ✅ Open Source Learning
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudhanshuraj1037&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sudhanshuraj1037&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshuraj1037&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshuraj1037&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sudhanshuraj1037&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Sudhanshuraj1037&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-profile-trophy.vercel.app/?username=Sudhanshuraj1037&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -325,100 +431,155 @@ I believe **consistency beats intensity**.
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Sudhanshuraj1037/Sudhanshuraj1037/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> ⚠️ Enable the Snake GitHub Action to generate this animation.
 
 ---
 
 # 🏅 Achievements
 
-🏆 Built multiple AI & Machine Learning projects.
+<div align="center">
 
-💻 Daily LeetCode problem solver.
+| 🚀 Projects | 🧩 DSA | 🤖 AI/ML | 📊 Data Analytics |
+|:-----------:|:------:|:--------:|:-----------------:|
+| AI Resume Builder | Daily LeetCode | Machine Learning | Google Play Store EDA |
+| Blind AI Assistant | LeetHub Sync | Deep Learning | Data Visualization |
+| CPU Scheduler | Problem Solving | Generative AI | Business Insights |
 
-📊 Completed multiple Data Analytics & EDA projects.
+</div>
 
-🤖 Passionate about Generative AI and LLMs.
+---
 
-📚 Continuously learning modern technologies.
+# 🛣️ Learning Roadmap
 
-🚀 Building projects that solve real-world problems.
+
+Python                     ████████████████████████ 100%
+
+Git & GitHub               █████████████████████░░ 90%
+
+Data Structures            ███████████████████░░░░ 85%
+
+Machine Learning           █████████████████░░░░░░ 75%
+
+Deep Learning              ████████████░░░░░░░░░░░ 60%
+
+Generative AI              ███████████░░░░░░░░░░░░ 55%
+
+Docker                     ███████░░░░░░░░░░░░░░░░ 35%
+
+MLOps                      █████░░░░░░░░░░░░░░░░░░ 25%
+
+AWS                        ███░░░░░░░░░░░░░░░░░░░░ 20%
+
 
 ---
 
 # 📚 Currently Learning
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,aws,kubernetes"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,linux,git,github,aws"/>
 
-</p>
+</div>
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
-- Generative AI
-- Prompt Engineering
-- MLOps
-- Docker
-- AWS
-- SQL
-- Advanced Data Structures & Algorithms
+### Current Focus
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 Natural Language Processing
+- 🖼️ Computer Vision
+- ✨ Generative AI
+- 🐳 Docker
+- ☁️ AWS
+- ⚙️ MLOps
+- 🧩 Advanced Data Structures & Algorithms
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Solve **300+ LeetCode** problems.
-- ✅ Build **10+ AI/ML Projects**.
-- ✅ Master **Machine Learning & Deep Learning**.
-- ✅ Learn **MLOps & Cloud Deployment**.
-- ✅ Contribute to **Open Source**.
-- ✅ Secure an **AI/ML Internship**.
-- ✅ Become proficient in **System Design**.
+- 🎯 Solve **500+ LeetCode** problems
+- 🤖 Build **10+ AI/ML Projects**
+- 🌍 Contribute to Open Source
+- 📚 Master Machine Learning & Deep Learning
+- 🐳 Learn Docker & Kubernetes
+- ☁️ Deploy AI applications on AWS
+- 💼 Secure an AI/ML Internship
+- 🚀 Build a strong developer portfolio
 
 ---
 
-# 📫 Let's Connect
+# 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+
+Python              ██████████████░░░░░░░░ 55%
+
+Machine Learning    █████████░░░░░░░░░░░░ 30%
+
+LeetCode            ██████░░░░░░░░░░░░░░░ 15%
+
+
+<!--END_SECTION:waka-->
+
+---
+
+# 💬 Favourite Quote
+
+<div align="center">
+
+## ✨ "Consistency beats intensity. Build something every day."
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/🌐 Portfolio-black?style=for-the-badge"/>
+</a>
+
 <a href="https://www.linkedin.com/in/sudhanshu-raj-7b1651321">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sudhanshu78158@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/sudhanshuraj1037/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.kaggle.com/sudhanshuraj1037">
-<img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sudhanshuraj1037">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Developer Quote
-
 <div align="center">
 
-> **"Consistency beats intensity. Build something every day."**
+## ⭐ Thanks for visiting my profile!
 
-⭐ If you like my work, don't forget to **Star** my repositories.
+### 🚀 If you like my work, consider giving a ⭐ to my repositories.
 
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=Sudhanshuraj1037&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sudhanshuraj1037&style=for-the-badge&color=0e75b6"/>
 
 </div>
-
