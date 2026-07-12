@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#00E5FF;">Sudhanshu Raj</span>
+# 👋 Hi, I'm <span style="color:#00E5FF;">Sudhanshu Raj😊</span>
 
 ### 🚀 AI & Machine Learning Enthusiast • Python Developer • Data Analytics Learner
 
