@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/github/stars/Sudhanshuraj1037?style=for-the-badge">
 
-<img src="https://komarev.com/ghpvc/?username=Sudhanshuraj1037&style=for-the-badge&color=blue">
+<img src="https://komare.com/ghpvc/?username=Sudhanshuraj1037&style=for-the-badge&color=blue">
 
 </div>
 
