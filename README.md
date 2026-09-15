@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://sudhanshuraj1037.netlify.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge">
 </a>
 
@@ -542,7 +542,7 @@ LeetCode            ██████░░░░░░░░░░░░░░
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://sudhanshuraj1037.netlify.app/">
 <img src="https://img.shields.io/badge/🌐 Portfolio-black?style=for-the-badge"/>
 </a>
 
